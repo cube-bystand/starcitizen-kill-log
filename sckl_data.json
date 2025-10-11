@@ -25,6 +25,7 @@
     "behr_rifle_ballistic_02": "P8-AR",
     "volt_rifle_energy_01": "Parallax",
     "gmni_rifle_ballistic_01": "S71",
+    "none_rifle_multi_01": "Killshot",
 
     "gmni_sniper_ballistic_01": "A03",
     "klwe_sniper_energy_01": "Arrowhead",
@@ -44,6 +45,7 @@
     "gmni_lmg_ballistic": "F55",
     "behr_lmg_ballistic": "FS-9",
     "volt_lmg_energy_01": "Fresnel",
+    "none_lmg_ballistic_01": "Pulverizer",
 
     "behr_glauncher_ballistic_01": "GP-33",
     "apar_special_ballistic_01": "Scourge Railgun",
